@@ -1,0 +1,9 @@
+/* DROP TABLES */
+
+DROP TABLE IF EXISTS member_idea;
+DROP TABLE IF EXISTS comment;
+DROP TABLE IF EXISTS idea;
+DROP TABLE IF EXISTS category;
+DROP TABLE IF EXISTS member;
+
+/* END */
